@@ -102,3 +102,7 @@ mvn package
 ```
 
 بينتج `target/smart-integration-plugin-1.0.0.jar`.
+
+## الرخصة
+
+المشروع مرخّص تحت [MIT License](LICENSE).
