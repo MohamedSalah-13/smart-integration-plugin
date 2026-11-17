@@ -1,5 +1,7 @@
 # Smart Integration Plugin
 
+[![CI](https://github.com/MohamedSalah-13/smart-integration-plugin/actions/workflows/test.yml/badge.svg)](https://github.com/MohamedSalah-13/smart-integration-plugin/actions/workflows/test.yml) ![Java](https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white) ![AI](https://img.shields.io/badge/AI-OpenAI%20·%20Gemini%20·%20Claude%20·%20Ollama-412991?logo=openai&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-API-25D366?logo=whatsapp&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-yellow)
+
 مكتبة (plugin) بجافا بتضاف كـ dependency لأي مشروع، وبتوفر واجهة موحّدة للتعامل مع:
 
 - **الذكاء الاصطناعي**: OpenAI, Google Gemini, Anthropic (Claude), Groq, أو موديل محلي عبر Ollama — بنفس الكود بغض النظر عن الـ provider.
